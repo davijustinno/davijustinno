@@ -1,19 +1,144 @@
-{
-  "code" : "cat > \/mnt\/user-data\/outputs\/README.md << 'EOFILE'\n<div align=\"center\">\n\n<img src=\"https:\/\/readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi+Justino!+%F0%9F%91%8B;Auxiliar+de+Suporte+TI;Estudante+de+Eng.+de+Software;Sempre+aprendendo+%F0%9F%9A%80\" alt=\"Typing SVG\" \/>\n\n<br\/>\n\n[![Typing SVG](https:\/\/readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=435&lines=public+class+DaviJustino+%7B;++String+role+%3D+%22Dev+em+forma%C3%A7%C3%A3o%22%3B;++String+local+%3D+%22Maringá%2C+PR%22%3B;%7D)](https:\/\/git.io\/typing-svg)\n\n<\/div>\n\n---\n\n## 🧑‍💻 Sobre mim\n\n```java\npublic class DaviJustino {\n\n    String[] roles    = {\"Auxiliar de Suporte TI\", \"Estudante de Eng. Software\"};\n    String   location = \"Maringá, PR 🇧🇷\";\n    String[] learning = {\"Java\", \"Algoritmos\", \"Lógica de Programação\", \"IA\"};\n    String   goal     = \"Crescer como desenvolvedor, unindo suporte e código 🚀\";\n\n    public String currentStatus() {\n        return \"Construindo minha base técnica, um commit por dia.\";\n    }\n}\n```\n\n---\n\n## 🛠️ Tecnologias & Ferramentas\n\n<div align=\"center\">\n\n![C#](https:\/\/img.shields.io\/badge\/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)\n![Git](https:\/\/img.shields.io\/badge\/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![GitHub](https:\/\/img.shields.io\/badge\/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)\n![Kanban](https:\/\/img.shields.io\/badge\/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)\n![Word](https:\/\/img.shields.io\/badge\/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)\n![Excel](https:\/\/img.shields.io\/badge\/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)\n![PowerPoint](https:\/\/img.shields.io\/badge\/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)\n![Windows](https:\/\/img.shields.io\/badge\/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)\n\n<\/div>\n\n---\n\n## 🚀 Atualmente aprendendo\n\n<div align=\"center\">\n\n![Java](https:\/\/img.shields.io\/badge\/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)\n![Algoritmos](https:\/\/img.shields.io\/badge\/Algoritmos-6DB33F?style=for-the-badge&logo=thealgorithms&logoColor=white)\n![Lógica](https:\/\/img.shields.io\/badge\/Lógica_de_Programação-8A2BE2?style=for-the-badge&logo=logstash&logoColor=white)\n![IA](https:\/\/img.shields.io\/badge\/Inteligência_Artificial-FF6F00?style=for-the-badge&logo=openai&logoColor=white)\n\n<\/div>\n\n---\n\n## 📊 GitHub Stats\n\n<div align=\"center\">\n\n<img height=\"160em\" src=\"https:\/\/github-readme-stats.vercel.app\/api?username=davijustinno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true\"\/>\n<img height=\"160em\" src=\"https:\/\/github-readme-stats.vercel.app\/api\/top-langs\/?username=davijustinno&layout=compact&langs_count=7&theme=github_dark&hide_border=true\"\/>\n\n<\/div>\n\n<div align=\"center\">\n\n![GitHub Streak](https:\/\/streak-stats.demolab.com?user=davijustinno&theme=github-dark-blue&hide_border=true&locale=pt_BR)\n\n<\/div>\n\n---\n\n## 🏆 GitHub Trophies\n\n<div align=\"center\">\n\n![Trophies](https:\/\/github-profile-trophy.vercel.app\/?username=davijustinno&theme=algolia&no-frame=true&row=1&column=6)\n\n<\/div>\n\n---\n\n## 📫 Contato\n\n<div align=\"center\">\n\n[![LinkedIn](https:\/\/img.shields.io\/badge\/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:\/\/linkedin.com\/in\/davijustinno)\n[![GitHub](https:\/\/img.shields.io\/badge\/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https:\/\/github.com\/davijustinno)\n[![Gmail](https:\/\/img.shields.io\/badge\/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)\n\n<\/div>\n\n---\n\n<div align=\"center\">\n\n![Visitors](https:\/\/visitor-badge.laobi.icu\/badge?page_id=davijustinno.davijustinno&color=58a6ff)\n\n*\"Todo especialista já foi um dia iniciante.\"* ⭐\n\n<\/div>\nEOFILE\necho \"Arquivo criado com sucesso\"",
-  "language" : "bash"
+<div align="center">
+
+# 👋 Olá, eu sou Davi Justino
 
 
-<!--
-**davijustinno/davijustinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+```yaml
+nome: Davi Justino
+idade: 17
+local: Maringá - PR
+cargo: Auxiliar de Suporte TI
+curso: Engenharia de Software
+
+aprendendo:
+  - Java
+  - Algoritmos
+  - IA
+
+objetivo:
+  - Me tornar Desenvolvedor de Software
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,cs,vscode,windows"/>
+
+</div>
+
+---
+
+## 🎮 Modo Atual
+
+```java
+public class Davi {
+
+    String cargo = "Auxiliar de Suporte TI";
+
+    String[] estudando = {
+        "Java",
+        "Algoritmos",
+        "Inteligência Artificial"
+    };
+
+    String objetivo = "Virar um grande desenvolvedor";
+
+    public void rotina() {
+        estudar();
+        praticar();
+        evoluir();
+        repetir();
+    }
+}
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davijustinno&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davijustinno&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=davijustinno&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+
+---
+
+## 📊 Nível Atual
+
+```text
+Java                ███░░░░░░░░ 30%
+Git/GitHub          ███████░░░░ 70%
+Suporte TI          ████████░░░ 80%
+Pacote Office       █████████░░ 90%
+Engenharia Software ████░░░░░░░ 40%
+```
+
+---
+
+## 🎯 Missões de 2026
+
+- [ ] Dominar IA
+- [ ] Dominar Java
+- [ ] Criar projetos completos
+- [ ] Aprender IA aplicada
+- [ ] Contribuir para Open Source
+
+---
+
+## 🐍 Snake das Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/davijustinno/davijustinno/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/davijustinno">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/davijustinno">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Todo especialista já foi um dia iniciante.
+
+<img src="https://komarev.com/ghpvc/?username=davijustinno&color=blue&style=flat-square"/>
+
+</div>
