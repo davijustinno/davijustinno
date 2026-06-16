@@ -1,26 +1,31 @@
 <div align="center">
 
-# 👋 Olá, eu sou Davi Justino
+# 👨‍💻 Davi Justino
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Auxiliar+de+Suporte+TI;Estudante+de+Engenharia+de+Software;Futuro+Desenvolvedor+de+Software;Aprendendo+Java+e+Inteligência+Artificial;Bem-vindo+ao+meu+perfil+🚀" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=davijustinno&label=VISITANTES&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+# 🚀 Sobre Mim
 
 ```yaml
 nome: Davi Justino
-idade: 17
-local: Maringá - PR
+
 cargo: Auxiliar de Suporte TI
-curso: Engenharia de Software
+
+formação:
+  - Engenharia de Software
 
 aprendendo:
   - Java
   - Algoritmos
-  - IA
+  - Inteligência Artificial
 
 objetivo:
   - Me tornar Desenvolvedor de Software
@@ -28,43 +33,60 @@ objetivo:
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,git,github,cs,vscode,windows"/>
+<img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode,windows"/>
 
 </div>
 
 ---
 
-## 🎮 Modo Atual
+# 📚 Atualmente Estudando
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Algorithms](https://img.shields.io/badge/Algoritmos-00599C?style=for-the-badge)
+![AI](https://img.shields.io/badge/IA-FF6F00?style=for-the-badge)
+![Software](https://img.shields.io/badge/Engenharia_de_Software-512BD4?style=for-the-badge)
+
+</div>
+
+---
+
+# 💻 Meu Perfil em Código
 
 ```java
-public class Davi {
+public class DaviJustino {
 
-    String cargo = "Auxiliar de Suporte TI";
+    private String role =
+        "Auxiliar de Suporte TI";
 
-    String[] estudando = {
+    private String university =
+        "Engenharia de Software";
+
+    private String[] learning = {
         "Java",
         "Algoritmos",
         "Inteligência Artificial"
     };
 
-    String objetivo = "Virar um grande desenvolvedor";
+    private String goal =
+        "Construir uma carreira sólida como desenvolvedor";
 
-    public void rotina() {
+    public void dailyRoutine() {
         estudar();
         praticar();
         evoluir();
-        repetir();
     }
 }
 ```
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 Estatísticas
 
 <div align="center">
 
@@ -76,7 +98,7 @@ public class Davi {
 
 ---
 
-## 🔥 Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -84,42 +106,47 @@ public class Davi {
 
 </div>
 
-
 ---
 
-## 📊 Nível Atual
-
-```text
-Java                ███░░░░░░░░ 30%
-Git/GitHub          ███████░░░░ 70%
-Suporte TI          ████████░░░ 80%
-Pacote Office       █████████░░ 90%
-Engenharia Software ████░░░░░░░ 40%
-```
-
----
-
-## 🎯 Missões de 2026
-
-- [ ] Dominar IA
-- [ ] Dominar Java
-- [ ] Criar projetos completos
-- [ ] Aprender IA aplicada
-- [ ] Contribuir para Open Source
-
----
-
-## 🐍 Snake das Contribuições
+# 🏆 Conquistas
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/davijustinno/davijustinno/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=davijustinno&theme=algolia&row=1&column=7&no-frame=true"/>
 
 </div>
 
 ---
 
-## 🌎 Onde me encontrar
+# 🎯 Objetivos 2026
+
+| Meta | Status |
+|--------|--------|
+| Aprender Java | 🟡 |
+| Criar Projetos Reais | 🟡 |
+| Aprender IA | 🟡 |
+| Conseguir Estágio | 🎯 |
+| Contribuir Open Source | 🔜 |
+
+---
+
+# 📊 Evolução Atual
+
+```text
+Java                ███░░░░░░░░░░░░░ 25%
+
+Git/GitHub          ███████░░░░░░░░░ 70%
+
+Suporte TI          ████████░░░░░░░░ 80%
+
+Pacote Office       █████████░░░░░░░ 90%
+
+Engenharia Software ████░░░░░░░░░░░░ 40%
+```
+
+---
+
+# 🌐 Contato
 
 <div align="center">
 
@@ -137,8 +164,8 @@ Engenharia Software ████░░░░░░░ 40%
 
 <div align="center">
 
-### 🚀 Todo especialista já foi um dia iniciante.
+### 🚀 "Todo especialista já foi um dia iniciante."
 
-<img src="https://komarev.com/ghpvc/?username=davijustinno&color=blue&style=flat-square"/>
+⭐ Se gostar dos meus projetos, considere deixar uma estrela.
 
 </div>
