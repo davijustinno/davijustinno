@@ -13,7 +13,7 @@
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/davijustinno/davijustinno/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/davijustinno/davijustinno/output/snake.svg" alt="snake.yml" />
 </div>
 
 <div>
