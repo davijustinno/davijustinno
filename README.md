@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/davi-pena-justino-2aa79a33a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">
-  <img src="./github_readme.gif" alt="Coding GIF" width="600"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" alt="Coding GIF">
+</div>
