@@ -2,7 +2,6 @@
 
 <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=davijustinno&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davijustinno&show_icons=true&theme=tokyonight&border_radius=15"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davijustinno&layout=compact&theme=tokyonight&border_radius=15"/>
