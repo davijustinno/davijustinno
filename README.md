@@ -2,7 +2,7 @@
 
 <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=davijustinno&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
-<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davijustinnocode&langs_count=5&text_color=000000&title_color=000000" />
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davijustinno-code&langs_count=5&text_color=000000&title_color=000000" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
