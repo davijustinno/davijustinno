@@ -1,7 +1,6 @@
 ## Oi, eu sou o Davi Justino! 👋
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davijustinno&show_icons=true&theme=dracula&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davijustinno&layout=compact&theme=dracula&border_radius=15&card_width=200)
+<a href="https://github-stats-extended.vercel.app/api?username=davijustinno"><img src="https://github-stats-extended.vercel.app/api?username=davijustinno"></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
